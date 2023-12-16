@@ -1,3 +1,13 @@
+首页：
+<img width="1279" alt="image" src="https://github.com/H-zzyu/pc-web-/assets/111582164/d0f9804b-a91d-407a-97d1-2a6b80cea4fb">
+歌单：
+<img width="1279" alt="image" src="https://github.com/H-zzyu/pc-web-/assets/111582164/faced658-9682-4454-85a1-9044d1f0f1b7">
+仿图库：
+<img width="1279" alt="image" src="https://github.com/H-zzyu/pc-web-/assets/111582164/c4d55594-e73e-43b0-8581-b0a29eea6760">
+留言板：
+<img width="1277" alt="image" src="https://github.com/H-zzyu/pc-web-/assets/111582164/b8114543-f13d-4f27-b4c3-a0d83a8ee3b2">
+
+
 # vue3-one
 
 This template should help get you started developing with Vue 3 in Vite.
